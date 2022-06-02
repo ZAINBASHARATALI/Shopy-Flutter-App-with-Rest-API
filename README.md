@@ -1,4 +1,4 @@
-# shopy_maxi
+# Shopy Flutter App
 
 A new Flutter project.
 
